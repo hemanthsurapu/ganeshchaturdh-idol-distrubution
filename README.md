@@ -1,1 +1,1 @@
-# Ganesh Chaturdh Idol Distrubution
+# Ganesh Chaturdhi Idol Distrubution
