@@ -2,6 +2,7 @@
         margin: 0;
         padding: 0;
         background-image: url('./assets/eco friendly.jpg');
+        background-position: center;
         background-size: cover;
     }
     h1 , #distu {
