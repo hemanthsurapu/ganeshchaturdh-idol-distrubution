@@ -1,1 +1,1 @@
-# ganeshchaturdhidoldistrubution
+# Ganesh Chaturdh Idol Distrubution
